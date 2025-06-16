@@ -12,5 +12,5 @@ This is a simple shell-based application that helps track and remind students of
 ## How to Use
 
 1. Run `create_environment.sh` and enter your name when prompted.
-2. Navigate into the created folder: `cd submission_reminder_<yourName>`
+2. Navigate into the created folder: `cd submission_reminder_<inputed name>
 3. Run the app with: `./startup.sh`
